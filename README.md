@@ -4,4 +4,5 @@
 <h4>今日待辦：</h4>
 1.互加好友<br>
 2.熟悉GitHub的各項功能<br>
-3.嘗試提交Pull request
+3.嘗試提交Pull request<br>
+4.去熟悉Vue和SpringBoot
